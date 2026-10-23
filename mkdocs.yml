@@ -1,4 +1,5 @@
 site_name: My Docs
+site_url: https://vitormneris.github.io/til/
 
 nav:
   - Home: index.md
