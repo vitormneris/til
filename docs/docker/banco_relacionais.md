@@ -14,7 +14,6 @@
 
 `docker run -d -p 3306:3306 --name mariadb-imobly -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=database_imobly -e MYSQL_USER=user -e MYSQL_PASSWORD=user mariadb:11`
 
-
 * MYSQL_USER: define o nome do usuário comun/não root.
 * MYSQL_PASSWORD: define a senha do usuário comum/não root.
 * MYSQL_ROOT_PASSWORD: define a senha do usuário root.

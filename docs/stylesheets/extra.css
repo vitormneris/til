@@ -1,0 +1,7 @@
+/* Oculta os botões Copy, Previous e Next no topo da página. Feito, especificamente, para o tema shadcn */
+#copy-page,
+#previous-button, 
+#next-button,
+#bottom-navigation {
+    display: none !important;
+}

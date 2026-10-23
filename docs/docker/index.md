@@ -3,6 +3,7 @@
 
 ## Gerenciamento de containers
 
+
 * **Lista todos os containers em estado running.**
 
 `docker ps`
@@ -49,6 +50,7 @@
 
 
 ## Gerenciamento de rede
+
 
 * **Criar uma network.**
 

@@ -5,3 +5,16 @@ nav:
   - Docker:
     - Introdução: docker/index.md
     - Banco de dados relacionais: docker/banco_relacionais.md
+
+theme:
+  name: shadcn
+  custom_dir: overrides
+  color_mode: dark
+  user_color_mode_toggle: true
+  topbar_sections: true
+  copy_page: false
+  show_datetime: true
+
+
+extra_css:
+  - stylesheets/extra.css
