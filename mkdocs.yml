@@ -6,6 +6,9 @@ nav:
   - Docker:
     - Introdução: docker/index.md
     - Banco de dados relacionais: docker/banco_relacionais.md
+  - RegEx:
+    - Primeiros passos com RegEx: regex/index.md
+
 
 theme:
   name: shadcn
