@@ -8,7 +8,8 @@ nav:
     - Banco de dados relacionais: docker/banco_relacionais.md
   - RegEx:
     - Primeiros passos com RegEx: regex/index.md
-
+  - Git:
+    - Primeiros passos com Git: git/index.md
 
 theme:
   name: shadcn
