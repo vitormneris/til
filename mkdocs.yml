@@ -1,8 +1,8 @@
-site_name: My Docs
+site_name: Buildlog
 site_url: https://vitormneris.github.io/til/
 
 nav:
-  - Home: index.md
+  - Welcome to Buildlog: index.md
   - Docker:
     - Introdução: docker/index.md
     - Banco de dados relacionais: docker/banco_relacionais.md

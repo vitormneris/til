@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Welcome to Buildlog
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Olá, seja bem vindo!
 
-## Commands
+O objetivo deste site é fazer um registro do meu aprendizado, como se fosse um caderno de anotações. 
+O conteúdo será exclusivamente relacionado com tecnologia, área à qual foco meus estudos.
+Mesmo sendo um projeto pessoal, seria uma grande satisfação se ele puder ajudar outras pessoas compartilhando o meu conhecimento. 
+Este site está em constante crescimento e apesar de ser revisado, é possível encontrar alguns problemas como erros ténicos, gramaticais, entre outros.
+Caso encontre algum problema ou tenha alguma observação, fique à vontade para entrar em contato comigo através de meu e-mail: joaovitormoreirasantosneris@gmail.com
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Desejo-lhe bons estudos!
